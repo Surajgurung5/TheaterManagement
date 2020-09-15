@@ -26,6 +26,7 @@ namespace TheaterMovieAdmin._00Data
         [Required]
 
         public string Language { get; set; }
+
         
     }
 
